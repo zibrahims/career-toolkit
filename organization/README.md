@@ -7,3 +7,12 @@ Online repositories kept for version control. Local copies should be made for wo
 - Personal: Website, CV
 - Professional: __Private__ Toolkit
 - Home: Recipes, __Public__ Best Practices + Toolkits
+
+## Work
+
+It is important to retain the following from work:
+
+- References with contacts + regular outreach
+- Evidence of work
+  - Contributions
+  - Knowledge
