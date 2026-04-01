@@ -8,7 +8,7 @@ Online repositories kept for version control. Local copies should be made for wo
 - Professional: __Private__ Toolkit
 - Home: Recipes, __Public__ Best Practices + Toolkits
 
-## Work
+## Work History
 
 It is important to retain the following from work:
 
@@ -16,3 +16,11 @@ It is important to retain the following from work:
 - Evidence of work
   - Contributions
   - Knowledge
+
+## Working
+
+- Close browsers once you're done
+- __Only keep one instance of Jira/Google/Conf/SWE__
+- Useful to take notes during meetings while deep focus on planning:
+  - Split screen: meeting, notes
+  - Full screen (group): (Mail/Calendar), (Jira/Confluence Plan), (SWE)
